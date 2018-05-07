@@ -7,6 +7,7 @@ This repository is dedicated for SGM group project.
 ### Prerequisites
 
 - Unity
+- Watch youtube video https://www.youtube.com/watch?v=A76mIXow030
 
 ### Installing
 
